@@ -2,7 +2,7 @@
 
 
 - 🧑 Me chamo Edvan Oliveira.
-- 🔥 Minha linguagem de programação primária é o Java, no entanto também tenho uma base muito sólida em JS/TY.
+- 🔥 Minha linguagem de programação primária é o Java, no entanto também tenho uma base muito sólida em JS/TS.
 - 💻 Principais tecnologias que domino: Spring Boot, JavaServer Faces, Primefaces, HTML5, CSS3, React Native e SQL.
 - ⭐ Sou um desenvolvedor full stack/analista em evolução.
 - 📚 Estou sempre me aprimorando e buscando novos aprendizados.
